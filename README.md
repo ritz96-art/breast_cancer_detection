@@ -5,7 +5,7 @@ This a beginner level machine learning project, anyone having enough understandi
 1. Install jupyterlab and then notebook  
 2. Fork this repository  
 3. clone your forked repo to your machine  
-* git clone   
+* git clone https://github.com/ritz96-art/breast_cancer_detection.git
 4. Install dependencies  
 * pip install scipy  
 * pip install numpy  
