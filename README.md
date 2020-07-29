@@ -1,6 +1,6 @@
 ## Breast_Cancer_Detection
 This repository contains a machine learning framework that detects the presence of breast cancer in a person using classification learning algorithms like **K nearest neighbors** and **Support Vector Machine**.  
-This a beginner level machine learning project, anyone having enough understanding about the classification algorithms(KNN,SVM) can learn how the python implementations work using jupyter notebook application locally or online.
+This is a beginner level machine learning project, anyone having enough understanding about the classification algorithms(KNN,SVM) can learn how the python implementations work using jupyter notebook application locally or online.
 ### Running Locally  
 1. Install jupyterlab and then notebook  
 2. Fork this repository  
@@ -12,3 +12,9 @@ This a beginner level machine learning project, anyone having enough understandi
 * pip install matplotlib  
 * pip install pandas  
 * pip install sklearn
+### Steps followed this project  
+1. collecting data from a url address  
+2. preprossing of data by replacing missing datas and feature selection
+3. exploratory data analysis for better understanding of dataset  
+4. modelling using train_test_split module  
+5. model evaluation
