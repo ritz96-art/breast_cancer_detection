@@ -1,4 +1,4 @@
-## Breast_Cancer_Detection
+## Breast Cancer Detection
 This repository contains a machine learning project that detects the presence of breast cancer in a person using classification learning algorithms like **K nearest neighbors** and **Support Vector Machine**.  
 This is a beginner level machine learning project, anyone having enough understanding about the classification algorithms(KNN,SVM) can learn how the python implementations work using jupyter notebook application locally or online.
 ### Running Locally  
